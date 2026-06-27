@@ -11,7 +11,7 @@ Start from the following skeleton:
 #include <stdio.h>
 
 int main(void){
-    printf("CATS AND DOGS");
+    printf("Hello, World!");
     ...
 }
 ```
